@@ -1,0 +1,16 @@
+Testsuite: childrensbookassignment.BookServiceTests
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.718 sec
+------------- Standard Output ---------------
+--Output from testStaticBook--
+--Output from testFirstSave--
+--Output from testSaveAndUpdate--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testStaticBook--
+--Output from testFirstSave--
+--Output from testSaveAndUpdate--
+------------- ---------------- ---------------
+
+Testcase: testStaticBook took 0.514 sec
+Testcase: testFirstSave took 0.156 sec
+Testcase: testSaveAndUpdate took 0.016 sec

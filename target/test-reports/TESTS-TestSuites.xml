@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="MomsLaptop-PC" id="0" name="BookServiceTests" package="childrensbookassignment" tests="3" time="0.718" timestamp="2012-02-07T18:16:05">
+      <properties />
+
+      <testcase classname="childrensbookassignment.BookServiceTests" name="testStaticBook" time="0.514" />
+
+      <testcase classname="childrensbookassignment.BookServiceTests" name="testFirstSave" time="0.156" />
+
+      <testcase classname="childrensbookassignment.BookServiceTests" name="testSaveAndUpdate" time="0.016" />
+
+      <system-out><![CDATA[--Output from testStaticBook--
+--Output from testFirstSave--
+--Output from testSaveAndUpdate--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testStaticBook--
+--Output from testFirstSave--
+--Output from testSaveAndUpdate--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
